@@ -8,10 +8,10 @@ AlgoritmoDiaDeLaSemana
     Leer numero
 
     Repetir
-    Definir opcion como entero
+    Definir numero como entero
 
-    Segun opcion Hacer
-         Leer opcion
+    Segun numero Hacer
+         Leer numero
          1:
          Escribir "Es Lunes "
          2:
@@ -27,8 +27,8 @@ AlgoritmoDiaDeLaSemana
          7:
          Escribir "Es Domingo "
      De otro modo
-        Escribir "Opción no valida "    
+        Escribir "número no valido "    
       Fin Segun
-    Hasta que opcion >= 8
+    Hasta que numero >= 8
 
 FinAlgoritmo
