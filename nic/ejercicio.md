@@ -12,7 +12,7 @@ escribir "4) Division";
 escribir "5) Salir";
 leer opcion 
 
-mientas opcion
+segun opcion hacer 
 
 1:
    escribir "Ingresa un numero"
@@ -40,4 +40,5 @@ mientas opcion
    escribir num1 "/", num2, "=" (num1 / num2);
 
 hasta que opcion == 5
+FinSegun
 FinAlgoritmo
