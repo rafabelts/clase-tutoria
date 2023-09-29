@@ -32,6 +32,3 @@ AlgoritmoDiaDeLaSemana
     Hasta que opcion >= 8
 
 FinAlgoritmo
-
-
-
