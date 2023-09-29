@@ -7,28 +7,26 @@ AlgoritmoDiaDeLaSemana
     Escribir "Ingresa un número del 1 - 7 y te diré el dia de la semana correspondiente: "
     Leer numero
 
-    Repetir
     Definir numero como entero
 
     Segun numero Hacer
          Leer numero
-         1:
+         caso 1:
          Escribir "Es Lunes "
-         2:
+         caso 2:
          Escribir "Es Martes "
-         3:
+         caso 3:
          Escribir "Es Miercoles "
-         4:
+         caso 4:
          Escribir "Es jueves "
-         5:
+         caso 5:
          Escribir: "Es Viernes "
-         6:
+         caso 6:
          Escribir: "Es Sábado"
-         7:
+         caso 7:
          Escribir "Es Domingo "
      De otro modo
         Escribir "número no valido "    
       Fin Segun
-    Hasta que numero >= 8
 
 FinAlgoritmo
